@@ -1,1 +1,3 @@
-# comp_nw_ass2
+# Computer Networks Assignment 2
+    Isabel Stein    Stefan Deelen
+                    stefand21@ru.is
